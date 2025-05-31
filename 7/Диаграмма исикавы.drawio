@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.6">
+  <diagram name="Страница — 1" id="KpA-IJIAs8y3TdzkBPpY">
+    <mxGraphModel dx="3393" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-4" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-7" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;студент(Ваня) не успевает сделать курсовой&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T3lkWjz9JVqq7ZgV1BqX-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="110" as="sourcePoint" />
+            <mxPoint x="190" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="T3lkWjz9JVqq7ZgV1BqX-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367" y="270" as="sourcePoint" />
+            <mxPoint x="237" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T3lkWjz9JVqq7ZgV1BqX-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="307" y="110" as="sourcePoint" />
+            <mxPoint x="447" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-14" value="личные факторы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-15" value="учебный процесс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-17" value="Научный/руководитель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="470" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-18" value="проблема" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="70" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.35;exitY=0.205;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="T3lkWjz9JVqq7ZgV1BqX-4" target="T3lkWjz9JVqq7ZgV1BqX-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="330" as="sourcePoint" />
+            <mxPoint x="490" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-20" value="Лень/прокрастинация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="230" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-21" value="Сложность выбранной темы крусовой" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-22" value="Большая загруженность другими предметами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-23" value="Отсутствие обратной связи" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-24" value="Сложность получения консультации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-25" value="Нечёткие требования к работе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-26" value="Болезнь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-27" value="Низкая мотивация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-28" value="Плохое планирование времени" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="190" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-29" value="недостаток знаний по теме" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-174" y="66" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-32" value="Технические проблемы(поломка ноутбука)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="410" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-33" value="Отвлекающие внешние факторы(друзья, хобби)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-34" value="Личные обстоятельства" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="310" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="T3lkWjz9JVqq7ZgV1BqX-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="57" y="270" as="sourcePoint" />
+            <mxPoint x="-73" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lkWjz9JVqq7ZgV1BqX-36" value="внешние факторы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="470" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
